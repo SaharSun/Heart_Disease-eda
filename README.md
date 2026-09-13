@@ -78,7 +78,7 @@ heart-disease-eda/
 <img width="1929" height="1129" alt="Continuous Variable Distributions" src="https://github.com/user-attachments/assets/394bbc1d-92e9-4c39-9c59-8e3d0c2344d7" />
 <img width="2059" height="1942" alt="Categorical Feature Distributions" src="https://github.com/user-attachments/assets/57402c24-644e-4169-8256-4b00977fb9e4" />
 <img width="2059" height="853" alt="Age, Blood Pressure   Cholesterol by Disease Status" src="https://github.com/user-attachments/assets/b1b38007-7b88-409c-80bd-8c47a54f7c44" />
-<img width="2059" height="853" alt="Age, Blood Pressure   Cholesterol by Disease Status" src="https://github.com/user-attachments/assets/2a63b579-8ae8-418a-a3a1-c2981d64cbc8" />
+
 
 
 
